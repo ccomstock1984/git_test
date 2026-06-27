@@ -1,0 +1,3 @@
+# Obligitory first program
+
+print("Hello World! Hello Odin!!")
